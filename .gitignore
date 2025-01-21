@@ -1,0 +1,13 @@
+# IntelliJ IDEA project files
+.idea/
+
+# Gradle files and directories
+.gradle/
+gradle/
+
+# Build output directories
+/build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
